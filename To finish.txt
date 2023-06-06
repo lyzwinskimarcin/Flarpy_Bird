@@ -1,0 +1,9 @@
+To finish:
+1. Git it up!
+2. Game over for out of bounds.
+3. Scoring after game over bug.
+4. Audio for scoring.
+5. Particle system - add clouds.
+6. Animation - addflapping wings.
+7. Add a new scene as a title screen (need to add it to build at the end).
+8*. Add highscore which will be saved to the hard drive and displayed during the game (tip: use PlayerPrefs.SetInt("highscore", score)).
